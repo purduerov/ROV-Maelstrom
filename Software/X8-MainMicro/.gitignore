@@ -1,0 +1,8 @@
+*.bin
+*.hex
+*.map
+*.elf
+*.o
+*.iml
+.idea/*
+CMakeLists.txt
