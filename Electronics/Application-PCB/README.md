@@ -1,6 +1,7 @@
-# PCB-X8-Application
-The board that contains mission specific electronics
+# PCB-Maelstrom-Application
+The application board was intended to contains mission specific electronics including the special manipulators, temperature sensors, pressure sensors, LED drivers, and solenoids for the claw. These components would be grouped together on this board to simplify the more complex microcontroller board with their own chip, the STM 32F405-64 PIN, to provide the interface. 
 
+This board was planned before the mission description, but then we realized that the mission required significantly fewer tools than expected and it was easier to relocate the tooling circuitry to the main microcontroller board. However, a board was still designed for some extra features but it was never tested or implemented due to time constraints. The application board ended up including the LED drivers and the backup temperature sensor’s circuit. We kept the STM32F405-64 pin microcontroller from the original design. It also included a micro-USB for programming the STM chip, a CAN communication chip and some debugging LEDs. The LED driver was modeled to use the LM3409HV FET buck controller.
 
 # LED driver overview
 - Controlled by Texas Instruments LM3409HV Buck Controller
