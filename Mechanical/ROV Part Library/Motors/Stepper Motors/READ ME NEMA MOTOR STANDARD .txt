@@ -1,0 +1,9 @@
+NEMA Motor Standard
+
+There is no NEMA motor naming convention due to the fact that all NEMA Motor Sizes 
+are controlled with Configurations.  Therefore there is absolutely no need to add 
+any new files to this folder.
+
+If you need a NEMA Stepper Motor Size and you do not know what a configuration is or 
+how to use them, please contact the Mechanical Team Lead 
+(Joshua Berg -> berg30@purdue.edu)

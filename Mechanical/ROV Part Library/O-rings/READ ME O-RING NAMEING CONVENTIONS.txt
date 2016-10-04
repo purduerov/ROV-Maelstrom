@@ -1,0 +1,11 @@
+O-Ring File Naming Convention
+
+Naming Convention As Follows:
+
+	Width of Cross Section - Inner Diameter - Part Number
+
+
+Note: 2" and 3/8" is written as 2_3.8 
+      1" and 1/4" is written as 1_1.4 
+            5/8"  is written as 5.8
+

@@ -1,0 +1,23 @@
+Bearing File Naming Convention
+
+Naming Convention As Follows:
+
+	Shaft Diameter - Outer Diameter - Width - Part Number
+
+
+Note: 2" and 3/8" is written as 2_3.8 
+      1" and 1/4" is written as 1_1.4 
+            5/8"  is written as 5.8
+
+Note B: Many times widths of Ball Bearings are not standard measurments.  
+	If this is the case, just use the decimal number indicated
+	by the following.   
+
+	0.126 is written as 0.126
+
+
+
+Example:  a ball bearing thats for a 1/4" shaft, has an OD of 5/8" and 
+	  is 0.196" wide, and has a part number of 5908K11, the name is 
+	
+	  1.4 - 5.8 - 0.196 -5908K11
