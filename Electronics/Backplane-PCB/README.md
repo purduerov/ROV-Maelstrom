@@ -1,2 +1,2 @@
-# PCB-X8-Backplane
-The board to attach all boards. Note: May not actually be a backplane!
+# PCB-Maelstrom-Backplane
+The Backplane was designed to allow quick and easy connection to all data and power sources. This was done with a PCB that routes all power and data connections needed between different boards in the Electronics Tube. For example, the CAN bus was routed such that with the simple insertion of the Main Microcontroller Board the board is connected to the bus instantly with no unnecessary wires. This eliminated wires between boards so that replacing or modifying boards can be done easily without having to unplug wire connections. Also, the Backplane gave one place on the bottom for all connections out of the Electronics Tube, keeping the components on the top of the Backplane wire-free.

@@ -1,2 +1,2 @@
-# PCB-X8-PowerConversion
-The board that handles the power conversion from the 48V tether
+# PCB-Maelstrom-PowerConversion
+This boards main task was to convert 12 V to 5 V in an efficient manner.  This is done by using a step down buck regulator.  The reason for this board was that linear regulators wasted too much power, and we needed a more efficient way of converting 12 V into 5 V.
