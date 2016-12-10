@@ -1,0 +1,3 @@
+# ROV-Maelstrom-Software
+
+ROV Maelstrom comes with software designed for easy control, usability, and reliability. We have written custom software that runs on a topside computer. This software, dubbed the BattleStation, was designed for ease of control and safety awareness. The BattleStation communicates with the embedded microcontrollers on the ROV. The embedded software controls the tooling, reads the sensors, and implements a control loop for improved maneuverability
