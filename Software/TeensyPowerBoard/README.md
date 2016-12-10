@@ -1,4 +1,4 @@
-# X8-TeensyPowerBoard
+# Maelstrom-TeensyPowerBoard
 
 
 [Teensy Software](https://www.pjrc.com/teensy/tutorial.html)

@@ -1,4 +1,4 @@
-# X8-PowerBoardMicro
+# Maelstrom-PowerBoardMicro
 
 This library will contain only code that will be used on the final micro controller on the power board. The structure of this page is as follows:
 - main.cpp will contain all of the function calls and handle all of the interresting bits of code 

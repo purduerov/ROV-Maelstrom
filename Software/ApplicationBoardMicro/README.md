@@ -1,4 +1,4 @@
-# X8-ApplicationBoardMicro
+# Maelstrom-ApplicationBoardMicro
 This library will contain only code that will be used on the final micro controller on the application board. The structure of this page is as follows:
 - main.cpp will contain all of the function calls and handle all of the interresting bits of code 
 - src/init.cpp will contain all functions used to initialize the pin functionalities
