@@ -1,0 +1,3 @@
+# Temperature Probe
+
+The temperature sensor measured the temperature of the water, and communicate with the ground station with I2C. The pressure sensor is to measure the pressure while the ROV is in the water, to get the distance below the water. The sonar’s purpose is to figure out how far we are from a certain location. There are four receivers on the surface of the water and one sender on the ROV.
