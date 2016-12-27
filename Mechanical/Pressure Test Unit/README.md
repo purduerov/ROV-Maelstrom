@@ -1,0 +1,3 @@
+# Pressure Test Unit
+
+The pressure test unit is made from a polycarbonate tube set into aluminum plates on the top and the bottom. Threaded rods are used to secure the two plates in place. A garden hose using municipal pressure (40 - 60 psi) feeds into the top plate, and provides enough pressure to simulate a depth of 100 meters. A pressure gauge is used to control the pressure inside the chamber. This system was designed to test components at competition depth (at least up to the competition 40 feet), and to test components without going to a pool.
